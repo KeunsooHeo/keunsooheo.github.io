@@ -283,10 +283,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
       show_date: true
   # _pages
   - scope:
