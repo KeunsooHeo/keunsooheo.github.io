@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About me
-share: true
+title: "About"
+layout: archive
+permalink: /about/
 ---
 
 # About me
