@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "RootHeo AI"
 title_separator          : "-"
-subtitle                 : "Ph.D candidate, Department of Artificial Intelligence, Korea Univ., Republic of Korea." # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "RootHeo AI"
 description              : "My research life"
 url                      : "https://keunsooheo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
