@@ -31,5 +31,5 @@ permalink: /about/
 ---
 # Awards and Honors
 
-- First-class honors (cumulative GAP : 4.33/4.5), The Catholic University of Korea, 2020
+- First-class honors (GAP : 4.33/4.5), The Catholic University of Korea, 2020
 
