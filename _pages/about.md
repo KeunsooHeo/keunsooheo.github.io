@@ -25,7 +25,7 @@ permalink: /about/
 
 ---
 # Publication
-- **Keun-Soo Heo**, Dong-Hee Shin, Sheng-Che Hung, Weili Lin, Han Zhang, Dinggang Shen, Tae-Eui Kam, "Deep Attentive Spatio-Temporal Feature Learning for Automatic Resting-State fMRI Denoising," NeuroImage, 2022. (IN PRESS)
+- **Keun-Soo Heo**, Dong-Hee Shin, Sheng-Che Hung, Weili Lin, Han Zhang, Dinggang Shen, Tae-Eui Kam, "Deep Attentive Spatio-Temporal Feature Learning for Automatic Resting-State fMRI Denoising," NeuroImage, 2022. (IN PRESS) [[paper] (IN PRESS)](https://doi.org/10.1016/j.neuroimage.2022.119127) [[code]](https://github.com/KeunsooHeo/Automatic-rsfMRI-noise-detection)
 - **Keun-Soo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity," IEIE Transactions on Smart Processing & Computing, Vol.8, No.2, pp. 121-125, 2019. [[paper]](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk) [[code]](https://github.com/KeunsooHeo/restore-image-clip-compand)
 
 ---
