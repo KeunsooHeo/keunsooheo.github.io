@@ -25,7 +25,7 @@ permalink: /about/
 
 ---
 # Publication
-- Minjoo Lim, **Keun-Soo Heo**, Jun-mo Kim, Bogyeong Kang, Weili Lin, Han Zhang, Dinggang Shen, and Tae-Eui Kam, "A Unified Multi-Modality Fusion Framework for Deep Spatio-Temporal-Spectral Feature Learning in Resting-State fMRI Denoising" IEEE Journal of Biomedical and Health Informatics, 2024. (Accepted)
+- Minjoo Lim, **Keun-Soo Heo**, Jun-mo Kim, Bogyeong Kang, Weili Lin, Han Zhang, Dinggang Shen, and Tae-Eui Kam, "A Unified Multi-Modality Fusion Framework for Deep Spatio-Temporal-Spectral Feature Learning in Resting-State fMRI Denoising" IEEE Journal of Biomedical and Health Informatics, 2024. [[paper]](https://ieeexplore.ieee.org/document/10409518) (Accepted)
 - Bogyeong Kang, Hyeonyeong Nam, Ji-Wung Han, **Keun-Soo Heo**, Tae-Eui Kam, "Multi-view Cross-Modality MR Image Translation for Vestibular Schwannoma and Cochlea Segmentation", Proc, MICCAI BrainLes 2022 workshop, Singapore, Sep. 18-22, 2022. [[paper]](https://crossmoda-challenge.ml/media/papers_2022/mai.pdf)
 - **Keun-Soo Heo**, Dong-Hee Shin, Sheng-Che Hung, Weili Lin, Han Zhang, Dinggang Shen, Tae-Eui Kam, "Deep Attentive Spatio-Temporal Feature Learning for Automatic Resting-State fMRI Denoising," NeuroImage, 119127, 2022. [[paper]](https://doi.org/10.1016/j.neuroimage.2022.119127) [[code]](https://github.com/KeunsooHeo/Automatic-rsfMRI-noise-detection)
 - **Keun-Soo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity," IEIE Transactions on Smart Processing & Computing, Vol.8, No.2, pp. 121-125, 2019. [[paper]](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk) [[code]](https://github.com/KeunsooHeo/restore-image-clip-compand)
