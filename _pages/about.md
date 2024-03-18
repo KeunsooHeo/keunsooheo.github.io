@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Keun-Soo Heo (허근수)
 - Contact me via email : gjrmstn1440@korea.ac.kr
-<center><img src="https://user-images.githubusercontent.com/11483057/124079509-35ea0700-da84-11eb-941a-03b63d57f11a.jpg" width="150" height="200"></center>
+<center><img src="https://github.com/KeunsooHeo/keunsooheo.github.io/assets/11483057/3840ef88-cb10-4d81-b0ea-8bbf68832952" width="150" height="200"></center>
 
 ---
 # Education
