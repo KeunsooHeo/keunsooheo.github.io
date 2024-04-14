@@ -25,6 +25,7 @@ permalink: /about/
 
 ---
 # International Publication
+- Jun-Mo Kim, **Keun-Soo Heo**, Dong-Hee Shin, Hyeonyeong Nam, Dong-Ok Won, Ji-Hoon Jeong, and Tae-Eui Kam, "A Learnable Continuous Wavelet-based Multi-Branch Attentive Convolutional Neural Network for Spatio-Spectral-Temporal EEG Signal Decoding," Expert Systems with Applications, 2024. (Accepted)
 - Sanghyeon Cho, Bogyeong Kang, **Keun-Soo Heo**, Eunjung Jo, and Tae-Eui Kam,"Enhanced Structure Preservation and Multi-View Approach in Unsupervised Domain Adaptation for Optic Disc and Cup Segmentation", 2024 IEEE 21st International Symposium on Biomedical Imaging (ISBI) (Accepted).
 - Minjoo Lim, **Keun-Soo Heo**, Jun-mo Kim, Bogyeong Kang, Weili Lin, Han Zhang, Dinggang Shen, and Tae-Eui Kam, "A Unified Multi-Modality Fusion Framework for Deep Spatio-Temporal-Spectral Feature Learning in Resting-State fMRI Denoising" IEEE Journal of Biomedical and Health Informatics, 2024. [[paper]](https://ieeexplore.ieee.org/document/10409518) (Accepted)
 - Bogyeong Kang, Hyeonyeong Nam, Ji-Wung Han, **Keun-Soo Heo**, Tae-Eui Kam, "Multi-view Cross-Modality MR Image Translation for Vestibular Schwannoma and Cochlea Segmentation", Proc, MICCAI BrainLes 2022 workshop, Singapore, Sep. 18-22, 2022. [[paper]](https://crossmoda-challenge.ml/media/papers_2022/mai.pdf)
