@@ -36,6 +36,13 @@ permalink: /about/
 - **Keun-Soo Heo**, Yunju Kim, Changwoo Lee, "Efficient Deep Neural Network for Restoring Image Intensity," IEIE Transactions on Smart Processing & Computing, Vol.8, No.2, pp. 121-125, 2019. [[paper]](http://www.auric.or.kr/User/Rdoc/DocRdoc.aspx?returnVal=RD_R&dn=384124#.XhHgkuH_yUk) [[code]](https://github.com/KeunsooHeo/restore-image-clip-compand)
 
 ---
+# Research Interests
+- Deep Learning
+- Healthcare
+- Multi-modality
+- Domain adaptation
+
+---
 # Awards and Honors
 
 - First-class honors (GAP : 4.33/4.5), The Catholic University of Korea, 2020
