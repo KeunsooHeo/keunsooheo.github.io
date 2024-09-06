@@ -38,8 +38,9 @@ permalink: /about/
 ---
 # Research Interests
 - Deep Learning
-- Healthcare
-- Multi-modality
+- Image processing
+- Multi-modality (Image, text, and signal)
+- Generative model
 - Domain adaptation
 
 ---
